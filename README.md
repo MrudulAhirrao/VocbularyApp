@@ -3,7 +3,7 @@
 A full-stack Vocabulary Web Application built with **Next.js**, **TypeScript**, and **GraphQL**. This app implements the [Material Design "Crane" Case Study](https://material.io/design/material-studies/crane.html), featuring a distinct purple/white theme, Kumbh Sans typography, and asynchronous data fetching from the **Oxford Dictionaries API**.
 
 ## 🚀 Live Demo
-**[Insert Your Vercel Link Here]** *(e.g., https://vocab-app-mrudul.vercel.app)*
+https://vocbulary-app.vercel.app/
 
 ---
 
