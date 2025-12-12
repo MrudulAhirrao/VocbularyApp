@@ -59,3 +59,11 @@ MONGODB_URI=mongodb://localhost:27017/vocab
 ```bash
 npm run dev
 ```
+---
+## Querying the words endpoint in English:
+
+✅ GET https://od-api-sandbox.oxforddictionaries.com/api/v2/words/en-gb?q=apple
+
+Returns successful response (200 response code) because word begins with first letter of the alphabet.
+
+### Words start from "a" character will be shown or add because of prototype api
